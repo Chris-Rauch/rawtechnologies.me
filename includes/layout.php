@@ -10,6 +10,7 @@ if (!isset($title)) {
     <title><?= htmlspecialchars($title) ?></title>
     <link rel="stylesheet" href="/assets/css/style.css">
     <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="icon" href="/assets/favicon.png" type="image/png"/>
 </head>
 
 <body class="min-h-screen flex flex-col bg-gray-600 text-gray-800">
