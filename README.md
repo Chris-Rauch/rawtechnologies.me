@@ -13,18 +13,6 @@ This is my personal portfolio website, built using PHP and TailwindCSS. It showc
 
 ---
 
-## 📁 Directory Structure
-/assets # Images, resume, static files
-/content # Page-specific content sections
-/includes # PHP partials (header, footer, layout, hero, etc.)
-/software.php # Software projects page
-/about.php # About the creator
-/contact.php # Contact page
-/resume.php # Resume page
-/index.php # Homepage
-
----
-
 ## 🚀 Deployment
 
 The site is currently developed locally using PHP’s built-in server:
